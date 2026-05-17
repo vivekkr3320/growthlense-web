@@ -1,0 +1,135 @@
+Name,Created at,Email,Lineitem name,Lineitem quantity,Lineitem price,Financial Status,Payment Method,Billing Province
+#1001,2026-03-19 05:29:00 ,customer_30@example.com,Nova Leather Sleeve,1,59.99,paid,Apple Pay,CA
+#1002,2026-03-26 06:35:00 ,customer_24@example.com,Nova Leather Sleeve,1,59.99,refunded,Google Pay,WA
+#1003,2026-03-20 13:48:00 ,customer_10@example.com,Lunar Desk Mat,1,29.99,refunded,Shopify Payments,CO
+#1004,2026-02-18 23:34:00 ,customer_27@example.com,Zenith Desk Lamp,1,79.99,paid,PayPal,FL
+#1005,2026-03-28 10:13:00 ,customer_11@example.com,Aura Ergonomic Chair,1,349.99,paid,Google Pay,MA
+#1006,2026-03-30 15:45:00 ,customer_3@example.com,Aura Ergonomic Chair,1,349.99,pending,Shopify Payments,WA
+#1006,2026-03-30 15:45:00 ,customer_3@example.com,Zenith Desk Lamp,2,79.99,pending,Shopify Payments,WA
+#1006,2026-03-30 15:45:00 ,customer_3@example.com,Nebula USB-C Hub,1,49.99,pending,Shopify Payments,WA
+#1007,2026-03-14 06:14:00 ,customer_15@example.com,Nova Leather Sleeve,1,59.99,pending,Google Pay,NY
+#1007,2026-03-14 06:14:00 ,customer_15@example.com,Aura Ergonomic Chair,1,349.99,pending,Google Pay,NY
+#1007,2026-03-14 06:14:00 ,customer_15@example.com,Lunar Desk Mat,1,29.99,pending,Google Pay,NY
+#1008,2026-03-28 16:40:00 ,customer_14@example.com,Aura Ergonomic Chair,1,349.99,paid,Google Pay,CA
+#1009,2026-04-17 21:06:00 ,customer_14@example.com,Zenith Desk Lamp,1,79.99,paid,Google Pay,CO
+#1010,2026-04-26 00:45:00 ,customer_1@example.com,Aura Ergonomic Chair,1,349.99,paid,Apple Pay,FL
+#1010,2026-04-26 00:45:00 ,customer_1@example.com,Lunar Desk Mat,1,29.99,paid,Apple Pay,FL
+#1011,2026-03-04 10:25:00 ,customer_22@example.com,Aura Ergonomic Chair,1,349.99,paid,Google Pay,IL
+#1011,2026-03-04 10:25:00 ,customer_22@example.com,Aura Ergonomic Chair,1,349.99,paid,Google Pay,IL
+#1012,2026-03-08 09:31:00 ,customer_10@example.com,Nova Leather Sleeve,2,59.99,paid,Apple Pay,TX
+#1012,2026-03-08 09:31:00 ,customer_10@example.com,Nova Leather Sleeve,2,59.99,paid,Apple Pay,TX
+#1012,2026-03-08 09:31:00 ,customer_10@example.com,Aura Ergonomic Chair,1,349.99,paid,Apple Pay,TX
+#1013,2026-03-02 17:30:00 ,customer_28@example.com,Nebula USB-C Hub,1,49.99,paid,PayPal,IL
+#1014,2026-04-24 01:31:00 ,customer_37@example.com,Lunar Desk Mat,1,29.99,paid,PayPal,WA
+#1014,2026-04-24 01:31:00 ,customer_37@example.com,Horizon Mechanical Keyboard,1,129.99,paid,PayPal,WA
+#1014,2026-04-24 01:31:00 ,customer_37@example.com,Nebula USB-C Hub,1,49.99,paid,PayPal,WA
+#1015,2026-05-01 14:25:00 ,customer_26@example.com,Lunar Desk Mat,1,29.99,paid,PayPal,FL
+#1015,2026-05-01 14:25:00 ,customer_26@example.com,Horizon Mechanical Keyboard,1,129.99,paid,PayPal,FL
+#1016,2026-04-28 15:47:00 ,customer_12@example.com,Aura Ergonomic Chair,1,349.99,paid,PayPal,FL
+#1017,2026-03-05 10:13:00 ,customer_22@example.com,Nebula USB-C Hub,1,49.99,pending,PayPal,TX
+#1018,2026-03-04 23:27:00 ,customer_14@example.com,Nova Leather Sleeve,1,59.99,pending,PayPal,NY
+#1018,2026-03-04 23:27:00 ,customer_14@example.com,Zenith Desk Lamp,1,79.99,pending,PayPal,NY
+#1018,2026-03-04 23:27:00 ,customer_14@example.com,Aura Ergonomic Chair,1,349.99,pending,PayPal,NY
+#1019,2026-05-09 03:26:00 ,customer_14@example.com,Nova Leather Sleeve,1,59.99,paid,Google Pay,FL
+#1019,2026-05-09 03:26:00 ,customer_14@example.com,Nebula USB-C Hub,1,49.99,paid,Google Pay,FL
+#1019,2026-05-09 03:26:00 ,customer_14@example.com,Nova Leather Sleeve,1,59.99,paid,Google Pay,FL
+#1020,2026-04-15 07:28:00 ,customer_2@example.com,Nebula USB-C Hub,1,49.99,paid,Google Pay,TX
+#1020,2026-04-15 07:28:00 ,customer_2@example.com,Nebula USB-C Hub,1,49.99,paid,Google Pay,TX
+#1021,2026-03-25 14:33:00 ,customer_1@example.com,Lunar Desk Mat,1,29.99,paid,Apple Pay,CA
+#1022,2026-03-13 17:24:00 ,customer_23@example.com,Nova Leather Sleeve,1,59.99,paid,Shopify Payments,CO
+#1023,2026-02-03 18:35:00 ,customer_14@example.com,Horizon Mechanical Keyboard,1,129.99,paid,PayPal,CO
+#1023,2026-02-03 18:35:00 ,customer_14@example.com,Aura Ergonomic Chair,1,349.99,paid,PayPal,CO
+#1024,2026-02-22 20:45:00 ,customer_25@example.com,Aura Ergonomic Chair,1,349.99,paid,PayPal,CO
+#1024,2026-02-22 20:45:00 ,customer_25@example.com,Aura Ergonomic Chair,1,349.99,paid,PayPal,CO
+#1025,2026-02-03 10:37:00 ,customer_16@example.com,Aura Ergonomic Chair,1,349.99,paid,Apple Pay,TX
+#1025,2026-02-03 10:37:00 ,customer_16@example.com,Horizon Mechanical Keyboard,3,129.99,paid,Apple Pay,TX
+#1026,2026-04-18 10:30:00 ,customer_19@example.com,Horizon Mechanical Keyboard,3,129.99,pending,Apple Pay,NY
+#1026,2026-04-18 10:30:00 ,customer_19@example.com,Zenith Desk Lamp,1,79.99,pending,Apple Pay,NY
+#1026,2026-04-18 10:30:00 ,customer_19@example.com,Lunar Desk Mat,1,29.99,pending,Apple Pay,NY
+#1027,2026-02-23 12:30:00 ,customer_23@example.com,Aura Ergonomic Chair,1,349.99,refunded,Apple Pay,CO
+#1027,2026-02-23 12:30:00 ,customer_23@example.com,Zenith Desk Lamp,1,79.99,refunded,Apple Pay,CO
+#1027,2026-02-23 12:30:00 ,customer_23@example.com,Aura Ergonomic Chair,1,349.99,refunded,Apple Pay,CO
+#1028,2026-05-09 01:22:00 ,customer_1@example.com,Nebula USB-C Hub,1,49.99,paid,Shopify Payments,CA
+#1029,2026-03-26 13:35:00 ,customer_2@example.com,Nebula USB-C Hub,2,49.99,paid,Shopify Payments,FL
+#1030,2026-02-06 06:51:00 ,customer_3@example.com,Nova Leather Sleeve,3,59.99,paid,PayPal,NY
+#1031,2026-04-03 04:25:00 ,customer_29@example.com,Zenith Desk Lamp,1,79.99,paid,Shopify Payments,CA
+#1031,2026-04-03 04:25:00 ,customer_29@example.com,Nova Leather Sleeve,1,59.99,paid,Shopify Payments,CA
+#1031,2026-04-03 04:25:00 ,customer_29@example.com,Lunar Desk Mat,1,29.99,paid,Shopify Payments,CA
+#1032,2026-02-11 10:14:00 ,customer_19@example.com,Zenith Desk Lamp,1,79.99,paid,Apple Pay,NY
+#1032,2026-02-11 10:14:00 ,customer_19@example.com,Nebula USB-C Hub,1,49.99,paid,Apple Pay,NY
+#1033,2026-03-27 03:24:00 ,customer_27@example.com,Horizon Mechanical Keyboard,2,129.99,paid,PayPal,CO
+#1033,2026-03-27 03:24:00 ,customer_27@example.com,Aura Ergonomic Chair,1,349.99,paid,PayPal,CO
+#1034,2026-03-23 19:05:00 ,customer_13@example.com,Lunar Desk Mat,1,29.99,paid,PayPal,MA
+#1034,2026-03-23 19:05:00 ,customer_13@example.com,Nebula USB-C Hub,1,49.99,paid,PayPal,MA
+#1034,2026-03-23 19:05:00 ,customer_13@example.com,Nova Leather Sleeve,1,59.99,paid,PayPal,MA
+#1035,2026-02-19 04:53:00 ,customer_39@example.com,Lunar Desk Mat,1,29.99,refunded,PayPal,MA
+#1036,2026-04-14 08:26:00 ,customer_30@example.com,Horizon Mechanical Keyboard,1,129.99,pending,Apple Pay,CA
+#1036,2026-04-14 08:26:00 ,customer_30@example.com,Lunar Desk Mat,1,29.99,pending,Apple Pay,CA
+#1036,2026-04-14 08:26:00 ,customer_30@example.com,Nebula USB-C Hub,1,49.99,pending,Apple Pay,CA
+#1037,2026-03-31 13:54:00 ,customer_9@example.com,Zenith Desk Lamp,1,79.99,pending,PayPal,FL
+#1037,2026-03-31 13:54:00 ,customer_9@example.com,Nova Leather Sleeve,1,59.99,pending,PayPal,FL
+#1038,2026-03-30 10:09:00 ,customer_2@example.com,Nebula USB-C Hub,1,49.99,paid,PayPal,TX
+#1039,2026-03-09 07:00:00 ,customer_13@example.com,Lunar Desk Mat,1,29.99,pending,PayPal,WA
+#1039,2026-03-09 07:00:00 ,customer_13@example.com,Zenith Desk Lamp,1,79.99,pending,PayPal,WA
+#1040,2026-03-22 19:30:00 ,customer_7@example.com,Aura Ergonomic Chair,1,349.99,pending,PayPal,IL
+#1040,2026-03-22 19:30:00 ,customer_7@example.com,Horizon Mechanical Keyboard,1,129.99,pending,PayPal,IL
+#1041,2026-04-05 13:23:00 ,customer_2@example.com,Lunar Desk Mat,1,29.99,pending,Google Pay,FL
+#1042,2026-02-01 18:42:00 ,customer_27@example.com,Nova Leather Sleeve,1,59.99,pending,Google Pay,TX
+#1043,2026-04-03 19:03:00 ,customer_10@example.com,Zenith Desk Lamp,1,79.99,paid,Apple Pay,NY
+#1043,2026-04-03 19:03:00 ,customer_10@example.com,Nebula USB-C Hub,1,49.99,paid,Apple Pay,NY
+#1043,2026-04-03 19:03:00 ,customer_10@example.com,Nova Leather Sleeve,1,59.99,paid,Apple Pay,NY
+#1044,2026-02-14 16:57:00 ,customer_39@example.com,Nova Leather Sleeve,1,59.99,refunded,Shopify Payments,CA
+#1045,2026-05-05 19:52:00 ,customer_4@example.com,Horizon Mechanical Keyboard,1,129.99,refunded,Google Pay,TX
+#1045,2026-05-05 19:52:00 ,customer_4@example.com,Zenith Desk Lamp,1,79.99,refunded,Google Pay,TX
+#1046,2026-04-27 22:48:00 ,customer_5@example.com,Nebula USB-C Hub,1,49.99,pending,Google Pay,IL
+#1046,2026-04-27 22:48:00 ,customer_5@example.com,Aura Ergonomic Chair,1,349.99,pending,Google Pay,IL
+#1046,2026-04-27 22:48:00 ,customer_5@example.com,Zenith Desk Lamp,1,79.99,pending,Google Pay,IL
+#1047,2026-04-06 12:26:00 ,customer_21@example.com,Nova Leather Sleeve,2,59.99,paid,PayPal,MA
+#1048,2026-02-01 06:06:00 ,customer_19@example.com,Nova Leather Sleeve,1,59.99,paid,Apple Pay,WA
+#1049,2026-03-21 16:04:00 ,customer_24@example.com,Zenith Desk Lamp,1,79.99,paid,Google Pay,FL
+#1049,2026-03-21 16:04:00 ,customer_24@example.com,Aura Ergonomic Chair,1,349.99,paid,Google Pay,FL
+#1049,2026-03-21 16:04:00 ,customer_24@example.com,Nebula USB-C Hub,1,49.99,paid,Google Pay,FL
+#1050,2026-02-20 03:33:00 ,customer_6@example.com,Nebula USB-C Hub,1,49.99,paid,Shopify Payments,MA
+#1050,2026-02-20 03:33:00 ,customer_6@example.com,Horizon Mechanical Keyboard,1,129.99,paid,Shopify Payments,MA
+#1050,2026-02-20 03:33:00 ,customer_6@example.com,Aura Ergonomic Chair,1,349.99,paid,Shopify Payments,MA
+#1051,2026-02-12 04:38:00 ,customer_30@example.com,Aura Ergonomic Chair,2,349.99,paid,Apple Pay,FL
+#1052,2026-05-11 18:38:00 ,customer_10@example.com,Lunar Desk Mat,1,29.99,paid,Shopify Payments,MA
+#1053,2026-04-12 12:22:00 ,customer_36@example.com,Nebula USB-C Hub,1,49.99,paid,Google Pay,NY
+#1054,2026-04-13 08:17:00 ,customer_11@example.com,Aura Ergonomic Chair,1,349.99,paid,PayPal,IL
+#1054,2026-04-13 08:17:00 ,customer_11@example.com,Nova Leather Sleeve,1,59.99,paid,PayPal,IL
+#1054,2026-04-13 08:17:00 ,customer_11@example.com,Nova Leather Sleeve,1,59.99,paid,PayPal,IL
+#1055,2026-04-29 23:45:00 ,customer_33@example.com,Lunar Desk Mat,1,29.99,paid,Shopify Payments,IL
+#1056,2026-04-17 09:16:00 ,customer_2@example.com,Nova Leather Sleeve,1,59.99,paid,Shopify Payments,CO
+#1056,2026-04-17 09:16:00 ,customer_2@example.com,Nova Leather Sleeve,1,59.99,paid,Shopify Payments,CO
+#1056,2026-04-17 09:16:00 ,customer_2@example.com,Aura Ergonomic Chair,1,349.99,paid,Shopify Payments,CO
+#1057,2026-03-05 08:44:00 ,customer_28@example.com,Nova Leather Sleeve,1,59.99,paid,PayPal,NY
+#1058,2026-03-23 18:02:00 ,customer_18@example.com,Lunar Desk Mat,1,29.99,paid,PayPal,IL
+#1058,2026-03-23 18:02:00 ,customer_18@example.com,Aura Ergonomic Chair,1,349.99,paid,PayPal,IL
+#1059,2026-04-06 16:18:00 ,customer_9@example.com,Horizon Mechanical Keyboard,1,129.99,paid,Shopify Payments,CA
+#1059,2026-04-06 16:18:00 ,customer_9@example.com,Zenith Desk Lamp,3,79.99,paid,Shopify Payments,CA
+#1060,2026-02-07 12:22:00 ,customer_18@example.com,Aura Ergonomic Chair,2,349.99,paid,Shopify Payments,FL
+#1060,2026-02-07 12:22:00 ,customer_18@example.com,Nova Leather Sleeve,1,59.99,paid,Shopify Payments,FL
+#1060,2026-02-07 12:22:00 ,customer_18@example.com,Aura Ergonomic Chair,1,349.99,paid,Shopify Payments,FL
+#1061,2026-05-05 11:46:00 ,customer_16@example.com,Lunar Desk Mat,1,29.99,pending,PayPal,CO
+#1061,2026-05-05 11:46:00 ,customer_16@example.com,Lunar Desk Mat,1,29.99,pending,PayPal,CO
+#1061,2026-05-05 11:46:00 ,customer_16@example.com,Nova Leather Sleeve,1,59.99,pending,PayPal,CO
+#1062,2026-04-29 15:25:00 ,customer_33@example.com,Horizon Mechanical Keyboard,2,129.99,paid,Google Pay,FL
+#1062,2026-04-29 15:25:00 ,customer_33@example.com,Horizon Mechanical Keyboard,3,129.99,paid,Google Pay,FL
+#1062,2026-04-29 15:25:00 ,customer_33@example.com,Nebula USB-C Hub,1,49.99,paid,Google Pay,FL
+#1063,2026-03-19 09:34:00 ,customer_35@example.com,Aura Ergonomic Chair,1,349.99,pending,Apple Pay,NY
+#1063,2026-03-19 09:34:00 ,customer_35@example.com,Lunar Desk Mat,2,29.99,pending,Apple Pay,NY
+#1064,2026-02-10 02:54:00 ,customer_12@example.com,Aura Ergonomic Chair,1,349.99,pending,Apple Pay,IL
+#1064,2026-02-10 02:54:00 ,customer_12@example.com,Zenith Desk Lamp,2,79.99,pending,Apple Pay,IL
+#1065,2026-02-15 13:11:00 ,customer_37@example.com,Horizon Mechanical Keyboard,1,129.99,refunded,PayPal,CA
+#1065,2026-02-15 13:11:00 ,customer_37@example.com,Nova Leather Sleeve,1,59.99,refunded,PayPal,CA
+#1065,2026-02-15 13:11:00 ,customer_37@example.com,Zenith Desk Lamp,1,79.99,refunded,PayPal,CA
+#1066,2026-04-17 01:35:00 ,customer_7@example.com,Lunar Desk Mat,1,29.99,paid,Apple Pay,WA
+#1066,2026-04-17 01:35:00 ,customer_7@example.com,Nebula USB-C Hub,1,49.99,paid,Apple Pay,WA
+#1066,2026-04-17 01:35:00 ,customer_7@example.com,Horizon Mechanical Keyboard,1,129.99,paid,Apple Pay,WA
+#1067,2026-04-01 22:13:00 ,customer_19@example.com,Zenith Desk Lamp,2,79.99,pending,Shopify Payments,CA
+#1067,2026-04-01 22:13:00 ,customer_19@example.com,Horizon Mechanical Keyboard,1,129.99,pending,Shopify Payments,CA
+#1068,2026-02-14 17:35:00 ,customer_14@example.com,Nebula USB-C Hub,1,49.99,pending,PayPal,NY
+#1069,2026-05-01 07:11:00 ,customer_23@example.com,Horizon Mechanical Keyboard,2,129.99,refunded,PayPal,FL
+#1069,2026-05-01 07:11:00 ,customer_23@example.com,Zenith Desk Lamp,1,79.99,refunded,PayPal,FL
+#1069,2026-05-01 07:11:00 ,customer_23@example.com,Lunar Desk Mat,1,29.99,refunded,PayPal,FL
+#1070,2026-04-26 15:12:00 ,customer_10@example.com,Nova Leather Sleeve,1,59.99,paid,Google Pay,NY
